@@ -1,0 +1,19 @@
+#ignore the following file(s) while pushing code to github
+
+*.o
+*.out
+*.app
+*.App
+*.exe
+*.so
+*.dylib
+*.dll
+*.prog
+*.Prog
+*.DS_Store
+*.mygui
+
+.idea/
+cmake-build-debug/
+CMakeFiles/
+bin/
